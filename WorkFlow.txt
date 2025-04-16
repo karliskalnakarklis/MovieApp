@@ -1,13 +1,23 @@
-0. Read documentation about Flutter and watched some tutorials
+tep 1: Set Up (done)
+Install Flutter on your computer
+Set up IntelliJ, VS Code, or try Google's IDX
+Get a free API key from the OMDB website
 
-1. Installed Intellij IDEA ultimate and everything needed for Flutter to run
+Step 2: Create Project (done)
+Make a new Flutter project
+Add the flutter_bloc package to your project
 
-2. Made GitHub repo: https://github.com/karliskalnakarklis/MovieApp.git
+Step 3: Build Features (thursday)
+Build a sketch of the UI
+Create a search screen with:
+Text box where users can type movie names
+Button to submit the search
+Area to show movie results with pictures
 
-3. Got familiar with the task
+Step 4: Connect to OMDB (thursday)
+Set up code to call the OMDB API
+Make the search box send requests to the API
+Display the results from the API in your app
 
-4. Sketched out the project structure and how I will approach it
-
-5. Edited and added flutter_bloc to the pubscpec.yaml file
-
-6. 
+Step 5: Finish Up (friday)
+Test that everything works
