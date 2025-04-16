@@ -1,0 +1,13 @@
+0. Read documentation about Flutter and watched some tutorials
+
+1. Installed Intellij IDEA ultimate and everything needed for Flutter to run
+
+2. Made GitHub repo: https://github.com/karliskalnakarklis/MovieApp.git
+
+3. Got familiar with the task
+
+4. Sketched out the project structure and how I will approach it
+
+5. Edited and added flutter_bloc to the pubscpec.yaml file
+
+6. 
