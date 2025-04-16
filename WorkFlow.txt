@@ -1,6 +1,6 @@
 tep 1: Set Up (done)
 Install Flutter on your computer
-Set up IntelliJ, VS Code, or try Google's IDX
+Set up IntelliJ
 Get a free API key from the OMDB website
 
 Step 2: Create Project (done)
